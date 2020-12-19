@@ -1,0 +1,18 @@
+html, body {
+	margin: 0px;
+	padding: 10px;
+}
+
+#dashboard {
+	padding: 0px 0px;
+}
+
+canvas {
+	display: block;
+	max-width: auto;
+	max-height: auto;
+}
+
+#points {
+	width: 20%;
+}
